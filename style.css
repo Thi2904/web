@@ -132,6 +132,43 @@ header{
     width: 455px;
     height: 1px;
 }
+.exp_share img {
+    width: 274px;
+    height: 274px;
+    flex-shrink: 0;
+}
+.img1{
+    width: 274px;
+    height: 274px;
+    background-image: url("img/14.png") ;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-position: 50%;
+}
+.img2{
+    width: 274px;
+    height: 274px;
+    background-image: url("img/15.png");
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-position: 50%;
+}
+.img3{
+    width: 274px;
+    height: 274px;
+    background-image: url("img/16.png");
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-position: 50%;
+}
+.img4{
+    width: 274px;
+    height: 274px;
+    background-image: url("img/17.png");
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-position: 50%;
+}
 .container_foot-name{
 
 }
